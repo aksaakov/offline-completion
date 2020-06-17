@@ -1,7 +1,7 @@
 # offline-completion
 
-Make sure to provide a json copy of the passports db. Must be placed into the resourcers folder.
+Make sure to provide a json copy of the passports db. The copy must be placed into the resourcers folder.
 
 Usage (example):
->sbt
->run News
+sbt
+run News
